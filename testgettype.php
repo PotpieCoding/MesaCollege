@@ -1,3 +1,4 @@
+```HTML+PHP
 <!doctype html>
 <html>
 <head>
@@ -55,3 +56,4 @@ print '<strong>$test_zip2</strong> ends up as ' . $test_zip2 . ' and the variabl
 <p>For more information on string conversion to numbers, go to <a href="http://www.php.net/manual/en/language.types.string.php#language.types.string.conversion">this link.</a></p>
 </body>
 </html>
+```
